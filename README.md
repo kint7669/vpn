@@ -5,14 +5,14 @@
 
 # 优惠购买vultr
 
-在使用了[一些服务器之后](https://wistbean.github.io/cloud-server.html)，我觉得 [vultr](https://www.vultr.com/?ref=7772384-4F) 的性价比超高，最低 $2.5/月 ，就可以拥有一台 1TB 月流量的服务器了，根本用不完。
+在使用了[一些服务器之后](https://wistbean.github.io/cloud-server.html)，我觉得 [vultr] 的性价比超高，最低 $2.5/月 ，就可以拥有一台 1TB 月流量的服务器了，根本用不完。
 
 
-而且现在 [vultr](https://www.vultr.com/?ref=7772384-4F) 优惠力度很大，**充值 10 美元送 50 美元**。
+而且现在 [vultr] 优惠力度很大，**充值 10 美元送 50 美元**。
 
 ## 注册vultr
 
-点击 [vultr官网送 50 美元优惠](https://www.vultr.com/?ref=7772384-4F) 进行注册：
+点击 [vultr官网送 50 美元优惠] 进行注册：
 
 ![注册vultr](https://wistbean.github.io/images/vultr-register.png)
 
@@ -115,7 +115,7 @@ vultr 现在有 16 个境外节点，选择一个离你最近的就好了。
 
 ## windows使用Shadowsocks
 
-windows点击下载：[Shadowsocks windows客户端](https://pan.baidu.com/s/19m0AfTkPDSRj0bfYrGpbIg)
+windows点击下载：[Shadowsocks windows客户端]
 
 打开 Shadowsocks 客户端，输入ip地址，密码，端口，和加密方式。接着点击确定，**右下角会有个小飞机按钮，右键-->启动代理**。
 
